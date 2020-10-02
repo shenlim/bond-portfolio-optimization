@@ -3,7 +3,7 @@ Optimize a portfolio of bond funds (ETFs) with linear programming. Given a set o
 
 ### Required packages
 * pandas - Data manipulation and analysis.
-* PuLP - A high level linear programming modeler.
+* PuLP - A high-level linear programming modeler.
 
 ### Dataset
 ```
