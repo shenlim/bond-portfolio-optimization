@@ -1,0 +1,11 @@
+name,ticker,price,credit,credit_num,duration,govt,mbs,corp,ytm,coupon,expense,non_benchmark
+Money Market,SPAXX,1,AAA,1,0.1,1,0,0,0.001,0.001,0.000042,0
+iShares:US Treasury Bond,GOVT,27.965,AAA,1,6.6,1,0,0,0.0052,0.0211,0.0015,0
+iShares:Lng-Trm Corp Bd,IGLB,71.25,BBB,4,13.95,0.04,0,0.96,0.0366,0.0477,0.0006,0
+iShares:MBS ETF,MBB,110.33,A,3,2.5,0,1,0,0.0261,0.0408,0.0006,0
+iShares:1-3 Trs Bd ETF,SHY,86.485,AAA,1,1.84,1,0,0,0.016,0.0175,0.0015,0
+SPDR Bbg Barc ST Hi Yld,SJNK,25.99,BB,5,1.99,0,0,1,0.0629,0.0641,0.004,1
+SPDR Ptf Aggregate Bond,SPAB,30.86,AAA,1,6.09,0.449,0.268,0.266,0.0114,0.0297,0.0004,0
+Vanguard ST Corp Bd;ETF,VCSH,82.96,A,3,2.8,0,0,1,0.01,0.033,0.0005,0
+iShares:TIPS Bd ETF,TIP,126.51,AAA,1,7.46,1,0,0,0.0186,0.0068,0.0019,1
+Vanguard Tot Bd;ETF,BND,88.42,A,3,6.01,0.4815,0.2022,0.3163,0.0097,0.0239,0.0004,0
